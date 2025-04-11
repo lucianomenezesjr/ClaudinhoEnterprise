@@ -24,17 +24,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-47DEQpj8HBSa\u002B/TImW\u002B5JCeuQeRkm5NMpJWZG3hSuFU="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u002247DEQpj8HBSa\u002B/TImW\u002B5JCeuQeRkm5NMpJWZG3hSuFU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Apr 2025 19:34:27 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ClaudinhoEnterpriseApp/css/style.1dh8bd2ufj.css">
+    <StaticWebAssetEndpoint Include="_content/ClaudinhoEnterpriseApp/css/style.4j2ef5r8x9.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1dh8bd2ufj"},{"Name":"integrity","Value":"sha256-Gxfxbo3gUM2h2KkNnfUhE2Brmop9E5CRyTp1sYHP/xg="},{"Name":"label","Value":"_content/ClaudinhoEnterpriseApp/css/style.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"273"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Gxfxbo3gUM2h2KkNnfUhE2Brmop9E5CRyTp1sYHP/xg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Apr 2025 19:38:16 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4j2ef5r8x9"},{"Name":"integrity","Value":"sha256-UFfdifw4Ra0q\u002Bw1W81IwMu1n66bpho\u002BMq4/JXYLjL\u002BA="},{"Name":"label","Value":"_content/ClaudinhoEnterpriseApp/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"449"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022UFfdifw4Ra0q\u002Bw1W81IwMu1n66bpho\u002BMq4/JXYLjL\u002BA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 13:59:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ClaudinhoEnterpriseApp/css/style.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Gxfxbo3gUM2h2KkNnfUhE2Brmop9E5CRyTp1sYHP/xg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"273"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Gxfxbo3gUM2h2KkNnfUhE2Brmop9E5CRyTp1sYHP/xg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Apr 2025 19:38:16 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UFfdifw4Ra0q\u002Bw1W81IwMu1n66bpho\u002BMq4/JXYLjL\u002BA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"449"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022UFfdifw4Ra0q\u002Bw1W81IwMu1n66bpho\u002BMq4/JXYLjL\u002BA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 13:59:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ClaudinhoEnterpriseApp/favicon.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -203,6 +203,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fkk10UrhfH2ZlA/qpY2gfBaCluKJEB4qR0RMY4rsC7g="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2074128"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022fkk10UrhfH2ZlA/qpY2gfBaCluKJEB4qR0RMY4rsC7g=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Apr 2025 17:24:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ClaudinhoEnterpriseApp/js/login.dn62exfg4v.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\login.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dn62exfg4v"},{"Name":"integrity","Value":"sha256-14/CBf4Q//mF2QKBNi\u002BEkbRfRTMt\u002Bq/12pomUtHZsX4="},{"Name":"label","Value":"_content/ClaudinhoEnterpriseApp/js/login.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"868"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u002214/CBf4Q//mF2QKBNi\u002BEkbRfRTMt\u002Bq/12pomUtHZsX4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Apr 2025 23:34:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ClaudinhoEnterpriseApp/js/login.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\login.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-14/CBf4Q//mF2QKBNi\u002BEkbRfRTMt\u002Bq/12pomUtHZsX4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"868"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u002214/CBf4Q//mF2QKBNi\u002BEkbRfRTMt\u002Bq/12pomUtHZsX4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Apr 2025 23:34:27 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ClaudinhoEnterpriseApp/js/site.2kylmpvbyv.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>

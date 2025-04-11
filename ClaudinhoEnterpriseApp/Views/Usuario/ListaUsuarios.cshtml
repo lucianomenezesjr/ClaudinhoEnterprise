@@ -1,0 +1,40 @@
+@model List<ClaudinhoEnterpriseApp.Models.Usuario>
+
+@{
+    ViewData["Title"] = "Lista de Usuários";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col">
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Nome</th>
+                        <th>Email</th>
+                        <th>Data de Criação</th>
+                        <th>Ações</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var usuario in Model)
+                    {
+                        <tr>
+                               
+                            <td>@usuario.id</td>
+                            <td>@usuario.nome</td>
+                            <td>@usuario.email</td>
+                            <td>@usuario.TipoDeUsuario</td>
+                            <td>@usuario.DataDeCriacao.ToString("dd/MM/yy HH:mm")</td>
+                            <td>
+                                <a asp-controller="Usuario" asp-action="Editar" asp-route-id="@usuario.id" class="btn btn-sm btn-primary">Editar</a>
+                                <a asp-controller="Usuario" asp-action="Deletar" asp-route-id="@usuario.id" class="btn btn-sm btn-danger">Deletar</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

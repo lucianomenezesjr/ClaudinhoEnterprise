@@ -1,0 +1,103 @@
+@{
+    ViewData["Title"] = "Claudinho Enterprise";
+}
+@model Usuario
+<div class="container" style="margin-bottom: 10.5vh;">
+
+    <!-- Bloco login -->
+    <div class="row m-5">
+        <div class="col d-flex align-items-center justify-content-center" style="height: 50vh;">
+            <div class="shadow rounded" style="width: 70vh;">
+
+                <ul class="nav nav-underline justify-content-center m-4" id="loginTabs">
+                    <li class="nav-item ">
+                        <a class="nav-link active" aria-current="page" href="#loginForm" onclick="setActiveTab(this)">
+                            <h4 style="color: black;">Entrar</h4>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="#cadastroForm" onclick="setActiveTab(this)">
+                            <h4 style="color: black;">Cadastrar-se</h4>
+                        </a>
+                    </li>
+
+                </ul>
+
+                <!-- Login / Entrar -->
+                <form asp-action="Login" method="post">
+                    <div id="loginForm">
+                        <div class="row mb-3 justify-content-center">
+                            <div class="col-sm-6">
+
+                                <label for="inputEmail" class="form-label m-2 mt-5"
+                                    style="font-weight: 500;">Email</label>
+                                <input type="email" name="email" class="form-control border-start-0" id="inputEmail">
+
+                            </div>
+                        </div>
+
+                        <div class="row mb-3 justify-content-center">
+                            <div class="col-sm-6">
+                                <label for="inputPassword" class="form-label m-2 mt-3"
+                                    style="font-weight: 500;">Senha</label>
+                                <input type="password" name="senha" class="form-control border-start-0" id="inputPassword">
+
+                            </div>
+                        </div>
+
+                        <div class="row mb-3 justify-content-center">
+
+                            <div class="col d-flex justify-content-center">
+                                <button type="submit" class="btn btn-info">Entrar</button>
+                            </div>
+                            <div class="row">
+                                <div class="col d-flex justify-content-center m-3">
+                                    <a href="" style="text-decoration: none;">Esqueceu a senha?</a>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </form>
+
+
+                <!-- Cadastro Form (inicialmente oculto) -->
+
+                <div id="cadastroForm" class="d-none">
+                    <form asp-action="Cadastro" method="post">
+                        <div class="row mb-3 justify-content-center">
+                            <div class="col-sm-6">
+                                <label class="form-label m-2 mt-5" style="font-weight: 500;">Nome</label>
+                                <input type="text" asp-for="nome"  class="form-control" id="inputNome">
+                            </div>
+                        </div>
+
+                        <div class="row mb-3 justify-content-center">
+                            <div class="col-sm-6">
+                                <label class="form-label m-2" style="font-weight: 500;">Email</label>
+                                <input type="text" asp-for="email" class="form-control" id="inputEmailCadastro">
+                            </div>
+                        </div>
+
+                        <div class="row mb-3 justify-content-center">
+                            <div class="col-sm-6">
+                                <label class="form-label m-2" style="font-weight: 500;">Senha</label>
+                                <input type="password" asp-for="senha" class="form-control" id="inputSenhaCadastro">
+                            </div>
+                        </div>
+                        
+                        <input type="hidden" asp-for="TipoDeUsuario" value="Usuário" />
+                        
+                        <div class="row mb-3 justify-content-center">
+                            <div class="col d-flex justify-content-center">
+                                <button type="submit" class="btn btn-info">Cadastrar</button>
+                            </div>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

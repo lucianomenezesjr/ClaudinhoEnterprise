@@ -1,4 +1,9 @@
-﻿<!DOCTYPE html>
+﻿@{
+    var nomeUsuario = Context.Session.GetString("NomeUsuario");
+    var tipoDeUsuario = Context.Session.GetString("TipoDeUsuario");
+}
+
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -17,7 +22,7 @@
         <!-- Navegação -->
         <nav id="navbarScrollSpy" class="navbar navbar-expand-lg navbar-dark bg-info sticky-top">
             <div class="container">
-                <a class="navbar-brand d-flex align-items-center" href="#">
+                <a class="navbar-brand d-flex align-items-center" href="/">
                     <img src="~/images/logo.png" alt="Logo" class="me-2" style="width: 40px;">
                     <div>
                         <h4 class="mb-0">Claudinho</h4>
@@ -30,31 +35,67 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item">
-                            <a class="nav-link active" href="#sobreNos">Sobre nós</a>
+                            <a class="nav-link" id="linksNav" href="#sobreNos">Sobre nós</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#servicos">Serviços</a>
+                            <a class="nav-link" id="linksNav" href="#servicos">Serviços</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="login.html">Login</a>
-                        </li>
-                    </ul>
 
-                </div>
-            </div>
-        </nav>
+                        @if (!string.IsNullOrEmpty(nomeUsuario))
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button"
+                                    data-bs-toggle="dropdown" aria-expanded="false">
+                                    @Context.Session.GetString("NomeUsuario")
+                                </a>
+                                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="userDropdown">
+                                    <li><a class="dropdown-item" href="/Login/EditarPerfil">Editar perfil</a></li>
+
+                                    @if (tipoDeUsuario == "Administrador")
+                                    {
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="/Usuario/ListaUsuarios">Lista de Usuario</a>
+                                        </li>
+                                    }
+
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li><a class="dropdown-item" href="/Login/Logout">Sair</a></li>
+                                    </ul>
+                                </li>
+
+                            }
+                            else
+                            {
+                                <a class="nav-link" id="linksNav" asp-controller="Login" asp-action="Index">
+                                    Entrar
+                                </a>
+                            }
+
+                            </li>
+    </ul>
+
+    </div>
+    </div>
+    </nav>
     </header>
-    <main role="main">
-        @RenderBody()
-    </main>
+        <main role="main">
+            @RenderBody()
+        </main>
 
-    <footer class="bg-dark text-white py-4">
-        @await Html.PartialAsync("_Footer")
-    </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
+        <footer class="bg-dark text-white py-4">
+            @await Html.PartialAsync("_Footer")
+        </footer>
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        <script src="~/js/login.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
-</body>
+    </body>
 
-</html>
+    </html>

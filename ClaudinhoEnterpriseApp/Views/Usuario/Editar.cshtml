@@ -1,0 +1,40 @@
+@model ClaudinhoEnterpriseApp.Models.Usuario
+
+@{
+    ViewData["Title"] = "Editar Perfil";
+}
+
+<div class="container mt-5">
+    <h2>Editar Perfil</h2>
+
+    <form asp-action="Editar" method="post">
+        <input type="hidden" asp-for="id" />
+
+        <div class="mb-3">
+            <label asp-for="nome" class="form-label">Nome</label>
+            <input asp-for="nome" class="form-control" />
+            <span asp-validation-for="nome" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="email" class="form-label">Email</label>
+            <input asp-for="email" class="form-control" />
+            <span asp-validation-for="email" class="text-danger"></span>
+        </div>
+
+        <!--<div class="mb-3">
+            <label asp-for="senha" class="form-label">Senha</label>
+            <input asp-for="senha" class="form-control" type="password" />
+            <span asp-validation-for="senha" class="text-danger"></span>
+        </div>
+        -->
+        <div class="mb-3">
+            <label asp-for="TipoDeUsuario" class="form-label">Tipo de Usuário</label>
+            <input asp-for="TipoDeUsuario" class="form-control" />
+            <span asp-validation-for="TipoDeUsuario" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Salvar</button>
+        <a asp-action="ListaUsuarios" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div>

@@ -1,0 +1,51 @@
+@model ClaudinhoEnterpriseApp.Models.Usuario
+
+@{
+    ViewData["Title"] = "Editar Perfil";
+}
+
+<div class="container">
+    <div class="row m-5">
+        <div class="col d-flex align-items-center justify-content-center" style="min-height: 60vh;">
+            <div class="shadow rounded" style="width: 70vh;">
+                <h3 class="text-center mt-4">Editar Perfil</h3>
+
+                <form asp-action="EditarPerfil" method="post" class="mt-4">
+                    <input type="hidden" asp-for="id" />
+
+                    <div class="row mb-3 justify-content-center">
+                        <div class="col-sm-6">
+                            <label asp-for="nome" class="form-label m-2" style="font-weight: 500;">Nome</label>
+                            <input asp-for="nome" class="form-control" />
+                            <span asp-validation-for="nome" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="row mb-3 justify-content-center">
+                        <div class="col-sm-6">
+                            <label asp-for="email" class="form-label m-2" style="font-weight: 500;">Email</label>
+                            <input asp-for="email" class="form-control" />
+                            <span asp-validation-for="email" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="row mb-3 justify-content-center">
+                        <div class="col d-flex justify-content-center">
+                            <button type="submit" class="btn btn-info">Salvar Alterações</button>
+                        </div>
+                    </div>
+                </form>
+
+                <hr class="my-4" />
+
+                <form asp-action="ExcluirPerfil" method="post" onsubmit="return confirm('Tem certeza que deseja excluir sua conta?');">
+                    <div class="row mb-3 justify-content-center">
+                        <div class="col d-flex justify-content-center">
+                            <button type="submit" class="btn btn-danger">Excluir Conta</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

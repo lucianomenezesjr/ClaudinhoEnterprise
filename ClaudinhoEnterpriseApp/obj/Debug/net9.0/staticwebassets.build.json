@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Pw43M3067Z+f9nA3vtFKOGD6m8GuPdGSqDwJVJVhCT0=",
+  "Hash": "xqm7qRylZsiWBbFF/3PxRNOvcPXiT7LrtghL3FAosvw=",
   "Source": "ClaudinhoEnterpriseApp",
   "BasePath": "_content/ClaudinhoEnterpriseApp",
   "Mode": "Default",
@@ -878,6 +878,27 @@
       "OriginalItemSpec": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Identity": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\jr727oqsk4-dn62exfg4v.gz",
+      "SourceId": "ClaudinhoEnterpriseApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ClaudinhoEnterpriseApp",
+      "RelativePath": "js/login#[.{fingerprint=dn62exfg4v}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\wwwroot\\js\\login.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "b7mi9tht2i",
+      "Integrity": "GTLAG1XeeL7JcgVB10cPN0Sq/yGWfMvJsRcRDq6/3mU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\wwwroot\\js\\login.js"
+    },
+    {
       "Identity": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\jxpj2lokwz-ee0r1s7dh0.gz",
       "SourceId": "ClaudinhoEnterpriseApp",
       "SourceType": "Discovered",
@@ -1130,12 +1151,12 @@
       "OriginalItemSpec": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\qmu867ytyq-1dh8bd2ufj.gz",
+      "Identity": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\qmu867ytyq-4j2ef5r8x9.gz",
       "SourceId": "ClaudinhoEnterpriseApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ClaudinhoEnterpriseApp",
-      "RelativePath": "css/style#[.{fingerprint=1dh8bd2ufj}]?.css.gz",
+      "RelativePath": "css/style#[.{fingerprint=4j2ef5r8x9}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1144,8 +1165,8 @@
       "RelatedAsset": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\wwwroot\\css\\style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "y76nx6hrrc",
-      "Integrity": "Puh5mPiNpDM/eY5lPtkQ4rfmX3aQS4O2lvg4/7ExPJE=",
+      "Fingerprint": "cfsab5g6wt",
+      "Integrity": "mLIeTW8A6k3tCZ9Kq2ZwRqOpa1WPOU/CG5xF46j4Q4Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\wwwroot\\css\\style.css"
@@ -1459,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1dh8bd2ufj",
-      "Integrity": "Gxfxbo3gUM2h2KkNnfUhE2Brmop9E5CRyTp1sYHP/xg=",
+      "Fingerprint": "4j2ef5r8x9",
+      "Integrity": "UFfdifw4Ra0q+w1W81IwMu1n66bpho+Mq4/JXYLjL+A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
@@ -1758,6 +1779,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\web_dev.png"
+    },
+    {
+      "Identity": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\wwwroot\\js\\login.js",
+      "SourceId": "ClaudinhoEnterpriseApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\wwwroot\\",
+      "BasePath": "_content/ClaudinhoEnterpriseApp",
+      "RelativePath": "js/login#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dn62exfg4v",
+      "Integrity": "14/CBf4Q//mF2QKBNi+EkbRfRTMt+q/12pomUtHZsX4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\login.js"
     },
     {
       "Identity": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\wwwroot\\js\\site.js",
@@ -3937,13 +3979,13 @@
       ]
     },
     {
-      "Route": "css/style.1dh8bd2ufj.css",
-      "AssetFile": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\qmu867ytyq-1dh8bd2ufj.gz",
+      "Route": "css/style.4j2ef5r8x9.css",
+      "AssetFile": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\qmu867ytyq-4j2ef5r8x9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005524861878"
+          "Quality": "0.003921568627"
         }
       ],
       "ResponseHeaders": [
@@ -3953,15 +3995,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "180"
+          "Value": "254"
         },
         {
           "Name": "ETag",
-          "Value": "\"Puh5mPiNpDM/eY5lPtkQ4rfmX3aQS4O2lvg4/7ExPJE=\""
+          "Value": "\"mLIeTW8A6k3tCZ9Kq2ZwRqOpa1WPOU/CG5xF46j4Q4Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 19:38:16 GMT"
+          "Value": "Fri, 11 Apr 2025 13:59:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3981,13 +4023,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Gxfxbo3gUM2h2KkNnfUhE2Brmop9E5CRyTp1sYHP/xg=\""
+          "Value": "W/\"UFfdifw4Ra0q+w1W81IwMu1n66bpho+Mq4/JXYLjL+A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1dh8bd2ufj"
+          "Value": "4j2ef5r8x9"
         },
         {
           "Name": "label",
@@ -3995,12 +4037,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Gxfxbo3gUM2h2KkNnfUhE2Brmop9E5CRyTp1sYHP/xg="
+          "Value": "sha256-UFfdifw4Ra0q+w1W81IwMu1n66bpho+Mq4/JXYLjL+A="
         }
       ]
     },
     {
-      "Route": "css/style.1dh8bd2ufj.css",
+      "Route": "css/style.4j2ef5r8x9.css",
       "AssetFile": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4010,7 +4052,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "273"
+          "Value": "449"
         },
         {
           "Name": "Content-Type",
@@ -4018,11 +4060,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Gxfxbo3gUM2h2KkNnfUhE2Brmop9E5CRyTp1sYHP/xg=\""
+          "Value": "\"UFfdifw4Ra0q+w1W81IwMu1n66bpho+Mq4/JXYLjL+A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 19:38:16 GMT"
+          "Value": "Fri, 11 Apr 2025 13:59:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4032,7 +4074,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1dh8bd2ufj"
+          "Value": "4j2ef5r8x9"
         },
         {
           "Name": "label",
@@ -4040,13 +4082,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Gxfxbo3gUM2h2KkNnfUhE2Brmop9E5CRyTp1sYHP/xg="
+          "Value": "sha256-UFfdifw4Ra0q+w1W81IwMu1n66bpho+Mq4/JXYLjL+A="
         }
       ]
     },
     {
-      "Route": "css/style.1dh8bd2ufj.css.gz",
-      "AssetFile": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\qmu867ytyq-1dh8bd2ufj.gz",
+      "Route": "css/style.4j2ef5r8x9.css.gz",
+      "AssetFile": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\qmu867ytyq-4j2ef5r8x9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4055,7 +4097,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "180"
+          "Value": "254"
         },
         {
           "Name": "Content-Type",
@@ -4063,11 +4105,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Puh5mPiNpDM/eY5lPtkQ4rfmX3aQS4O2lvg4/7ExPJE=\""
+          "Value": "\"mLIeTW8A6k3tCZ9Kq2ZwRqOpa1WPOU/CG5xF46j4Q4Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 19:38:16 GMT"
+          "Value": "Fri, 11 Apr 2025 13:59:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4085,7 +4127,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1dh8bd2ufj"
+          "Value": "4j2ef5r8x9"
         },
         {
           "Name": "label",
@@ -4093,18 +4135,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Puh5mPiNpDM/eY5lPtkQ4rfmX3aQS4O2lvg4/7ExPJE="
+          "Value": "sha256-mLIeTW8A6k3tCZ9Kq2ZwRqOpa1WPOU/CG5xF46j4Q4Q="
         }
       ]
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\qmu867ytyq-1dh8bd2ufj.gz",
+      "AssetFile": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\qmu867ytyq-4j2ef5r8x9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005524861878"
+          "Quality": "0.003921568627"
         }
       ],
       "ResponseHeaders": [
@@ -4114,15 +4156,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "180"
+          "Value": "254"
         },
         {
           "Name": "ETag",
-          "Value": "\"Puh5mPiNpDM/eY5lPtkQ4rfmX3aQS4O2lvg4/7ExPJE=\""
+          "Value": "\"mLIeTW8A6k3tCZ9Kq2ZwRqOpa1WPOU/CG5xF46j4Q4Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 19:38:16 GMT"
+          "Value": "Fri, 11 Apr 2025 13:59:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4142,13 +4184,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Gxfxbo3gUM2h2KkNnfUhE2Brmop9E5CRyTp1sYHP/xg=\""
+          "Value": "W/\"UFfdifw4Ra0q+w1W81IwMu1n66bpho+Mq4/JXYLjL+A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Gxfxbo3gUM2h2KkNnfUhE2Brmop9E5CRyTp1sYHP/xg="
+          "Value": "sha256-UFfdifw4Ra0q+w1W81IwMu1n66bpho+Mq4/JXYLjL+A="
         }
       ]
     },
@@ -4163,7 +4205,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "273"
+          "Value": "449"
         },
         {
           "Name": "Content-Type",
@@ -4171,11 +4213,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Gxfxbo3gUM2h2KkNnfUhE2Brmop9E5CRyTp1sYHP/xg=\""
+          "Value": "\"UFfdifw4Ra0q+w1W81IwMu1n66bpho+Mq4/JXYLjL+A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 19:38:16 GMT"
+          "Value": "Fri, 11 Apr 2025 13:59:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4185,13 +4227,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Gxfxbo3gUM2h2KkNnfUhE2Brmop9E5CRyTp1sYHP/xg="
+          "Value": "sha256-UFfdifw4Ra0q+w1W81IwMu1n66bpho+Mq4/JXYLjL+A="
         }
       ]
     },
     {
       "Route": "css/style.css.gz",
-      "AssetFile": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\qmu867ytyq-1dh8bd2ufj.gz",
+      "AssetFile": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\qmu867ytyq-4j2ef5r8x9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4200,7 +4242,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "180"
+          "Value": "254"
         },
         {
           "Name": "Content-Type",
@@ -4208,11 +4250,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Puh5mPiNpDM/eY5lPtkQ4rfmX3aQS4O2lvg4/7ExPJE=\""
+          "Value": "\"mLIeTW8A6k3tCZ9Kq2ZwRqOpa1WPOU/CG5xF46j4Q4Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 09 Apr 2025 19:38:16 GMT"
+          "Value": "Fri, 11 Apr 2025 13:59:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4230,7 +4272,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Puh5mPiNpDM/eY5lPtkQ4rfmX3aQS4O2lvg4/7ExPJE="
+          "Value": "sha256-mLIeTW8A6k3tCZ9Kq2ZwRqOpa1WPOU/CG5xF46j4Q4Q="
         }
       ]
     },
@@ -5595,6 +5637,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-fkk10UrhfH2ZlA/qpY2gfBaCluKJEB4qR0RMY4rsC7g="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.dn62exfg4v.js",
+      "AssetFile": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\jr727oqsk4-dn62exfg4v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002525252525"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GTLAG1XeeL7JcgVB10cPN0Sq/yGWfMvJsRcRDq6/3mU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 23:34:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"14/CBf4Q//mF2QKBNi+EkbRfRTMt+q/12pomUtHZsX4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dn62exfg4v"
+        },
+        {
+          "Name": "label",
+          "Value": "js/login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-14/CBf4Q//mF2QKBNi+EkbRfRTMt+q/12pomUtHZsX4="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.dn62exfg4v.js",
+      "AssetFile": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\wwwroot\\js\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"14/CBf4Q//mF2QKBNi+EkbRfRTMt+q/12pomUtHZsX4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 23:34:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dn62exfg4v"
+        },
+        {
+          "Name": "label",
+          "Value": "js/login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-14/CBf4Q//mF2QKBNi+EkbRfRTMt+q/12pomUtHZsX4="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.dn62exfg4v.js.gz",
+      "AssetFile": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\jr727oqsk4-dn62exfg4v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GTLAG1XeeL7JcgVB10cPN0Sq/yGWfMvJsRcRDq6/3mU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 23:34:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dn62exfg4v"
+        },
+        {
+          "Name": "label",
+          "Value": "js/login.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GTLAG1XeeL7JcgVB10cPN0Sq/yGWfMvJsRcRDq6/3mU="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.js",
+      "AssetFile": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\jr727oqsk4-dn62exfg4v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002525252525"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GTLAG1XeeL7JcgVB10cPN0Sq/yGWfMvJsRcRDq6/3mU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 23:34:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"14/CBf4Q//mF2QKBNi+EkbRfRTMt+q/12pomUtHZsX4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-14/CBf4Q//mF2QKBNi+EkbRfRTMt+q/12pomUtHZsX4="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.js",
+      "AssetFile": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\wwwroot\\js\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"14/CBf4Q//mF2QKBNi+EkbRfRTMt+q/12pomUtHZsX4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 23:34:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-14/CBf4Q//mF2QKBNi+EkbRfRTMt+q/12pomUtHZsX4="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.js.gz",
+      "AssetFile": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\obj\\Debug\\net9.0\\compressed\\jr727oqsk4-dn62exfg4v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GTLAG1XeeL7JcgVB10cPN0Sq/yGWfMvJsRcRDq6/3mU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Apr 2025 23:34:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GTLAG1XeeL7JcgVB10cPN0Sq/yGWfMvJsRcRDq6/3mU="
         }
       ]
     },

@@ -28,12 +28,24 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/lucia/OneDrive/Documentos/ClaudinhoEnterprise/ClaudinhoEnterpriseApp/Views/Home/AcessoNegado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2Vzc29OZWdhZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/lucia/OneDrive/Documentos/ClaudinhoEnterprise/ClaudinhoEnterpriseApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/lucia/OneDrive/Documentos/ClaudinhoEnterprise/ClaudinhoEnterpriseApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucia/OneDrive/Documentos/ClaudinhoEnterprise/ClaudinhoEnterpriseApp/Views/Login/EditarPerfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRWRpdGFyUGVyZmlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucia/OneDrive/Documentos/ClaudinhoEnterprise/ClaudinhoEnterpriseApp/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/lucia/OneDrive/Documentos/ClaudinhoEnterprise/ClaudinhoEnterpriseApp/Views/Shared/Error.cshtml]
@@ -52,10 +64,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lucia/OneDrive/Documentos/ClaudinhoEnterprise/ClaudinhoEnterpriseApp/Views/Shared/_login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9sb2dpbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/lucia/OneDrive/Documentos/ClaudinhoEnterprise/ClaudinhoEnterpriseApp/Views/Shared/_Servicos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZXJ2aWNvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -66,6 +74,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/lucia/OneDrive/Documentos/ClaudinhoEnterprise/ClaudinhoEnterpriseApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucia/OneDrive/Documentos/ClaudinhoEnterprise/ClaudinhoEnterpriseApp/Views/Usuario/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucia/OneDrive/Documentos/ClaudinhoEnterprise/ClaudinhoEnterpriseApp/Views/Usuario/ListaUsuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xMaXN0YVVzdWFyaW9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/lucia/OneDrive/Documentos/ClaudinhoEnterprise/ClaudinhoEnterpriseApp/Views/_ViewImports.cshtml]

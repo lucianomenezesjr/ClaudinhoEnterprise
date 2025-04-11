@@ -69,6 +69,10 @@
       "PackagePath": "staticwebassets\\images\\web_dev.png"
     },
     {
+      "Id": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
       "Id": "C:\\Users\\lucia\\OneDrive\\Documentos\\ClaudinhoEnterprise\\ClaudinhoEnterpriseApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

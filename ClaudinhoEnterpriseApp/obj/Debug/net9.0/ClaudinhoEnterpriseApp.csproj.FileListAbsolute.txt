@@ -192,8 +192,9 @@ C:\Users\lucia\OneDrive\Documentos\ClaudinhoEnterprise\ClaudinhoEnterpriseApp\bi
 C:\Users\lucia\OneDrive\Documentos\ClaudinhoEnterprise\ClaudinhoEnterpriseApp\obj\Debug\net9.0\ClaudinhoEnterpriseApp.csproj.AssemblyReference.cache
 C:\Users\lucia\OneDrive\Documentos\ClaudinhoEnterprise\ClaudinhoEnterpriseApp\obj\Debug\net9.0\Claudinh.8FD7355E.Up2Date
 C:\Users\lucia\OneDrive\Documentos\ClaudinhoEnterprise\ClaudinhoEnterpriseApp\obj\Debug\net9.0\compressed\2qxv8qs9ag-5ipweew5fc.gz
-C:\Users\lucia\OneDrive\Documentos\ClaudinhoEnterprise\ClaudinhoEnterpriseApp\obj\Debug\net9.0\compressed\qmu867ytyq-1dh8bd2ufj.gz
 C:\Users\lucia\OneDrive\Documentos\ClaudinhoEnterprise\ClaudinhoEnterpriseApp\obj\Debug\net9.0\compressed\7fz7511q09-o46x2o1ebj.gz
 C:\Users\lucia\OneDrive\Documentos\ClaudinhoEnterprise\ClaudinhoEnterpriseApp\obj\Debug\net9.0\compressed\7q4k54110n-3byvcv8r7y.gz
 C:\Users\lucia\OneDrive\Documentos\ClaudinhoEnterprise\ClaudinhoEnterpriseApp\obj\Debug\net9.0\compressed\5g4q98mhpw-3byvcv8r7y.gz
 C:\Users\lucia\OneDrive\Documentos\ClaudinhoEnterprise\ClaudinhoEnterpriseApp\obj\Debug\net9.0\compressed\kelkium6n3-2kylmpvbyv.gz
+C:\Users\lucia\OneDrive\Documentos\ClaudinhoEnterprise\ClaudinhoEnterpriseApp\obj\Debug\net9.0\compressed\jr727oqsk4-dn62exfg4v.gz
+C:\Users\lucia\OneDrive\Documentos\ClaudinhoEnterprise\ClaudinhoEnterpriseApp\obj\Debug\net9.0\compressed\qmu867ytyq-4j2ef5r8x9.gz
