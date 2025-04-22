@@ -1,0 +1,38 @@
+@model IEnumerable<ClaudinhoEnterpriseApp.Models.ContatoLogado>
+
+@{
+    ViewData["Title"] = "Mensagens Recebidas";
+}
+
+<h2>Mensagens Recebidas</h2>
+
+@if (!Model.Any())
+{
+    <p>Nenhuma mensagem encontrada.</p>
+}
+else
+{
+    <table class="table table-striped m5">
+        <thead>
+            <tr>
+                <th>Usuário</th>
+                <th>Email</th>
+                <th>Assunto</th>
+                <th>Mensagem</th>
+                <th>Data</th> <!-- Se você quiser adicionar data, precisará de um campo na tabela -->
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var contato in Model)
+            {
+                <tr>
+                    <td>@contato.Usuario.nome</td>
+                    <td>@contato.Usuario.email</td>
+                    <td>@contato.Assunto</td>
+                    <td>@contato.Mensagem</td>
+                    <td>@contato.DataCriacao.ToLocalTime().ToString("dd/MM/yyyy HH:mm")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

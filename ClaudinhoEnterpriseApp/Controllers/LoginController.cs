@@ -36,6 +36,7 @@ namespace ClaudinhoEnterpriseApp.Controllers
 
                 if (resultado == PasswordVerificationResult.Success)
                 {
+                    HttpContext.Session.SetInt32("IdUsuario", usuario.id); 
                     HttpContext.Session.SetString("NomeUsuario", usuario.nome);
                     HttpContext.Session.SetString("TipoDeUsuario", usuario.TipoDeUsuario);
                     return RedirectToAction("Index", "Home");
@@ -45,6 +46,8 @@ namespace ClaudinhoEnterpriseApp.Controllers
             TempData["Mensagem"] = "E-mail ou senha inválidos!";
             return RedirectToAction("Index");
         }
+
+
         [HttpPost]
         public IActionResult Cadastro(Usuario usuario)
         {

@@ -14,5 +14,7 @@ namespace ClaudinhoEnterpriseApp.Models
 
         [Column("TipoDeUsuario")]  // Match exact database column name
         public string TipoDeUsuario { get; set; } = "Cliente";
+
+        public virtual ICollection<ContatoLogado> Contatos { get; set; } = new List<ContatoLogado>();
     }
 }

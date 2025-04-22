@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ClaudinhoEnterpriseApp.3byvcv8r7y.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3byvcv8r7y"},{"Name":"integrity","Value":"sha256-kZiDNb5LAMLJpzQJRN4Wofz1z\u002BcPdfvC8q2eZjHSlcs="},{"Name":"label","Value":"_content/ClaudinhoEnterpriseApp/ClaudinhoEnterpriseApp.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"393"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022kZiDNb5LAMLJpzQJRN4Wofz1z\u002BcPdfvC8q2eZjHSlcs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Apr 2025 19:40:26 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"393"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022kZiDNb5LAMLJpzQJRN4Wofz1z\u002BcPdfvC8q2eZjHSlcs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 19:17:31 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ClaudinhoEnterpriseApp/ClaudinhoEnterpriseApp.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ClaudinhoEnterpriseApp.3byvcv8r7y.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kZiDNb5LAMLJpzQJRN4Wofz1z\u002BcPdfvC8q2eZjHSlcs="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"393"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022kZiDNb5LAMLJpzQJRN4Wofz1z\u002BcPdfvC8q2eZjHSlcs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 09 Apr 2025 19:40:26 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"393"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022kZiDNb5LAMLJpzQJRN4Wofz1z\u002BcPdfvC8q2eZjHSlcs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 15 Apr 2025 19:17:31 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ClaudinhoEnterpriseApp/css/site.5ipweew5fc.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
