@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClaudinhoEnterpriseApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d467ea33cff5d1f2c3533abb0f8b16fce5aaae38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b9847b1a01bfd9040def60f93014c3c19a17d9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClaudinhoEnterpriseApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClaudinhoEnterpriseApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
